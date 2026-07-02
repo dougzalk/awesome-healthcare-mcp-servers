@@ -10,6 +10,13 @@ Every server is independently rated for **HIPAA compliance** (L1–L5) and **cli
 
 **Last updated:** July 2, 2026
 
+> [!TIP]
+> ### Server of the Week — July 2, 2026
+>
+> **Japan Healthcare MCP** · *Clinical Decision Support*
+>
+> Inaugural pick from this week's eight additions: a local-first TypeScript monorepo covering Japanese healthcare reference data — drug master, reimbursement and medical-fee codes, PMDA — with SQLite storage, source attribution, synthetic sample data, and CLI/REST companions. Two things make it stand out: it's the list's first non-US national reference-data server, and it shipped day one with the hygiene most servers never reach (Apache-2.0, CI, SECURITY.md, a medical disclaimer, versioned release notes). In a week that also produced a submission with fabricated code definitions (see the new contributing.md accuracy rules), this is what trustworthy reference tooling looks like. Listed under Clinical Decision Support below.
+
 ## Contents
 
 - [Trust Framework](#trust-framework)
