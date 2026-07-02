@@ -37,8 +37,10 @@ Your MCP server must:
 
 - Serve a **real healthcare workflow** (clinical, operational, financial, or research).
 - Have a **publicly accessible repository** with a clear README.
+- **Contain the server source code in the repository itself** — README-only repos that funnel to a hosted paid service (e.g., an Apify actor or affiliate link) are rejected.
+- Have a **license file** — no license means all-rights-reserved and the entry can't be safely used.
 - Be **actively maintained** (commits within the last 6 months).
-- Not misrepresent its security or compliance capabilities.
+- Not misrepresent its security or compliance capabilities — including embedded reference data: if your server ships code lists (CARC/RARC, ICD, POS), they must match the authoritative source verbatim, and coverage counts must be accurate.
 
 ### What We Evaluate
 
